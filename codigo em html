@@ -81,15 +81,15 @@
     
     <h3>Levantamento Populacional</h3>
     <p>Segundo o Censo de 2022 do IBGE, Foz do Iguaçu tem cerca de 258 mil habitantes. A cidade é bastante diversa, com pessoas de várias origens culturais e nacionais.</p>
-    <img src="Fig1-Populacao.jpg" alt="Gráfico de crescimento populacional de Foz do Iguaçu">
+    <img src="ima1-Populacao.jpg" alt="Gráfico de crescimento populacional de Foz do Iguaçu">
 
     <h3>Taxa de Mortalidade</h3>
     <p>A taxa de mortalidade é de aproximadamente 5,8 óbitos por mil habitantes ao ano. Isso indica que a cidade possui uma boa estrutura de saúde e qualidade de vida.</p>
-    <img src="Fig2-Mortalidade.jpg" alt="Gráfico de taxa de mortalidade">
+    <img src="ima2-Mortalidade.jpg" alt="Gráfico de taxa de mortalidade">
 
     <h3>Taxa de Mortalidade Infantil</h3>
     <p>Atualmente, a cidade apresenta cerca de 10,4 mortes de bebês a cada mil nascidos vivos. Essa taxa tem diminuído graças ao avanço no atendimento de saúde para gestantes e recém-nascidos.</p>
-    <img src="Fig3-Mortalidade-Infantil.jpg" alt="Gráfico da mortalidade infantil no Brasil entre 1940 e 2017">
+    <img src="ima3-Mortalidade-Infantil.jpg" alt="Gráfico da mortalidade infantil no Brasil entre 1940 e 2017">
 
     <h3>Taxa de Natalidade</h3>
     <p>A taxa de natalidade em Foz do Iguaçu é de cerca de 11,2 nascimentos por mil habitantes. Assim como em outras cidades brasileiras, esse número tem diminuído com o tempo.</p>
