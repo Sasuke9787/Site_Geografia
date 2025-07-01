@@ -96,8 +96,8 @@
 
     <div class="comentarios">
       <h2>Deixe seu comentário</h2>
-      <input type="text" id="nome" placeholder="Seu nome">
-      <textarea id="comentario" rows="4" placeholder="Escreva seu comentário..."></textarea>
+      <input type="text" id="nome" placeholder="Coloque um nome">
+      <textarea id="comentario" rows="4" placeholder="Comentário"></textarea>
       <button onclick="adicionarComentario()">Enviar</button>
 
       <div id="lista-comentarios"></div>
@@ -110,7 +110,7 @@
       const comentario = document.getElementById("comentario").value.trim();
 
       if (nome === "" || comentario === "") {
-        alert("Por favor, preencha seu nome e comentário.");
+        alert("Preencha seu nome e comentário.");
         return;
       }
 
